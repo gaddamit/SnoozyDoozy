@@ -20,8 +20,12 @@ Developed with Unreal Engine 5.3.2
 1. Allow the character to activate a pressure pad by jumping on it.
   
 ## Resources
-Characters & Animations: Abe & Doozy  
-https://www.mixamo.com  
+Characters & Animations:  
+- Abe & Doozy  
+  https://www.mixamo.com  
+
+- Stone Monster  
+  https://assetstore.unity.com/packages/3d/characters/stone-monster-101433
 
 Environment:  
 https://www.unrealengine.com/marketplace/en-US/product/isometric-cube-environment  
