@@ -1,6 +1,5 @@
 # Snoozy Doozy
-
-Developed with Unreal Engine 5.3.2
+[![Made with Unreal](https://img.shields.io/badge/Made%20with-Unreal%20Engine-0e1128.svg?style=flat&logo=unrealengine&logoColor=white)](https://www.unrealengine.com)
 
 ## Loading the Level
 1. Open the project in Unreal Engine editor
