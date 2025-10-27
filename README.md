@@ -1,5 +1,6 @@
 # Snoozy Doozy
-[![Made with Unreal](https://img.shields.io/badge/Made%20with-Unreal%20Engine-0e1128.svg?style=flat&logo=unrealengine&logoColor=white)](https://www.unrealengine.com)
+[![Made with Unreal](https://img.shields.io/badge/Made%20with-Unreal%20Engine-0E1128.svg?style=flat)](https://www.unrealengine.com)
+![Blueprints](https://img.shields.io/badge/Blueprints-2E97DE?style=flat&logo=unrealengine&logoColor=white)
 
 ## Loading the Level
 1. Open the project in Unreal Engine editor
